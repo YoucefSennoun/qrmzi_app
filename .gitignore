@@ -1,0 +1,15 @@
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+build/
+*.apk
+*.apk.idsig
+*.jks
+*.keystore
+keystore/
+__pycache__/
+*.pyc
+.cxx
+.externalNativeBuild
